@@ -36,7 +36,7 @@ This project presents an interactive Power BI dashboard developed using the Tech
 
 ## 📷 Dashboard Preview
 
-(Upload the dashboard screenshot here after creating this README.)
+![Dashboard](Screenshot%202026-07-04%20170452.png)
 
 ---
 
